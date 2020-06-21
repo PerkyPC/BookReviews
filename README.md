@@ -1,5 +1,5 @@
 # BookReviews
-Reviews about my books
+Reviews about books I read -PerkyPC
 
 ## Candy Makers Book 1
 ## Date: 06/15/2020
